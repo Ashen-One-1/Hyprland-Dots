@@ -33,6 +33,4 @@ Feel free to share some advice
   ## 📋 Prerequisites
 Before applying the configurations, ensure your system has all the necessary packages installed. You can use the following command to install the required packages:
 ```bash
-yay -S hyprland-git xdg-desktop-portal-hyprland-git hyprpolkitagent-git waypaper swww telegram-desktop python-pywal visual-studio-code-bin spotify discord betterdiscordctl betterdiscord-git wlogout waybar sddm kitty rofi wofi nautilus btop vim kate neofetch walogram pipewire pipewire-pulse wireplumber pavucontrol power-profiles-daemon linux-headers nvidia-dkms nvidia-utils nvidia settings
-
-now to setup the nvidia drivers
+yay -S hyprland-git xdg-desktop-portal-hyprland-git hyprpolkitagent-git waypaper swww telegram-desktop python-pywal visual-studio-code-bin spotify discord betterdiscordctl betterdiscord-git wlogout waybar sddm kitty rofi wofi nautilus btop vim kate neofetch walogram pipewire pipewire-pulse wireplumber pavucontrol power-profiles-daemon --needed
