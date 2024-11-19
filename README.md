@@ -28,6 +28,7 @@ Feel free to share some advice
   - **Image Tools**: Gwenview, GIMP
   - **Video Tools**: Kdenlive, Openshot
   - **Code Editors**: VSCode, Kate, Vim
+  - **Sddm Theme**: [Sequoia](https://github.com/minMelody/sddm-sequoia)
 
  
   ## 📋 Prerequisites
