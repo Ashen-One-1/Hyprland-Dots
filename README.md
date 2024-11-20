@@ -12,7 +12,7 @@ Feel free to share some advice
 - **CPU**: Intel i5 11th Gen  
 - **GPU**: NVIDIA RTX 3050  
 - **RAM**: 24GB  
-- **Screen Resolution**: 1920x1080  
+  
 
 ## ✨ Features
 
