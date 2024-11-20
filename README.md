@@ -18,7 +18,7 @@ Feel free to share some advice
 
 - **Dynamic Tiling**: Effortlessly manage windows with Hyprland’s advanced tiling features.
 - **Custom Keybindings**: Optimized for productivity and easy navigation.
-- **Theming**: A minimalist, elegant theme with GTK and Pywal, Waybar or [Hyprpanel](https://hyprpanel.com/), and terminal integrations.
+- **Theming**: A minimalist, elegant theme with GTK and [Pywal](https://github.com/dylanaraps/pywal), Waybar or [Hyprpanel](https://hyprpanel.com/), and terminal integrations.
 - **Applications Integrated**:
   - **Launcher**: Wofi & Rofi
   - **Terminal**: Kitty
