@@ -34,4 +34,4 @@ Feel free to share some advice
   ## 📋 Prerequisites
 Before applying the configurations, ensure your system has all the necessary packages installed. You can use the following command to install the required packages:
 ```bash
-yay -S hyprland-git xdg-desktop-portal-hyprland-git hyprpolkitagent-git waypaper swww telegram-desktop python-pywal visual-studio-code-bin spotify discord betterdiscordctl betterdiscord-git wlogout waybar sddm kitty rofi wofi nautilus btop vim kate neofetch walogram-git pipewire pipewire-pulse wireplumber pavucontrol power-profiles-daemon wl-clipboard cliphist blueman bluez bluez-utils bluez-libs hyprlock hypridle hyprshot nerd-fonts-git --needed
+yay -S hyprland-git xdg-desktop-portal-hyprland-git hyprpolkitagent-git waypaper swww telegram-desktop python-pywal visual-studio-code-bin spotify discord pywal-discord-git betterdiscordctl betterdiscord-git wlogout waybar sddm kitty rofi wofi nautilus btop vim kate neofetch walogram-git pipewire pipewire-pulse wireplumber pavucontrol power-profiles-daemon wl-clipboard cliphist blueman bluez bluez-utils bluez-libs hyprlock hypridle hyprshot nerd-fonts-git --needed
