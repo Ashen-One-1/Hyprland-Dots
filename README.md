@@ -47,6 +47,7 @@ Feel free to share some advice
 ![2024-11-20-182020_hyprshot](https://github.com/user-attachments/assets/2d7ad222-1234-43de-94a7-a54f3aa78fdb)
 ![2024-11-20-181914_hyprshot](https://github.com/user-attachments/assets/261ba14d-bf3e-4b6f-b8e0-2611ed9e5e19)
 ![2024-11-19-154717_hyprshot](https://github.com/user-attachments/assets/643dd05d-9eb2-48a9-9f53-ce284c8e1214)
+![2024-11-23-181812_hyprshot](https://github.com/user-attachments/assets/cd5e2121-dc57-4c36-ac36-273fe2b1b8df)
 
 
  
