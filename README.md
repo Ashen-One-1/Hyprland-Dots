@@ -43,7 +43,7 @@ Feel free to share some advice
 ![2024-11-22-143147_hyprshot](https://github.com/user-attachments/assets/d8727a30-c9cf-4c7b-9f50-333fda717bd9)
 ![2024-11-22-143110_hyprshot](https://github.com/user-attachments/assets/8701f0c0-0759-489f-b9f4-0c3e98e877e0)
 ![2024-11-22-142937_hyprshot](https://github.com/user-attachments/assets/1307d649-9914-4cd0-a45f-4efdef7687c4)
-![2024-11-20-182329_hyprshot](https://github.com/user-attachments/assets/822db6e5-dc5b-4d29-80c9-b38f8220e0a8)
+![2024-11-25-094839_hyprshot](https://github.com/user-attachments/assets/197503e9-45e3-49dc-9c9a-451e39e484ea)
 ![2024-11-20-182020_hyprshot](https://github.com/user-attachments/assets/2d7ad222-1234-43de-94a7-a54f3aa78fdb)
 ![2024-11-20-181914_hyprshot](https://github.com/user-attachments/assets/261ba14d-bf3e-4b6f-b8e0-2611ed9e5e19)
 ![2024-11-19-154717_hyprshot](https://github.com/user-attachments/assets/643dd05d-9eb2-48a9-9f53-ce284c8e1214)
